@@ -1,2 +1,3 @@
-# lcbit
-Low-code blockchain integration toolkit 
+# LCBIT
+
+Low-code blockchain integration toolkit
